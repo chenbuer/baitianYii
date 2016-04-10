@@ -6,7 +6,7 @@ use kartik\tree\Module;
 use yii\helpers\Url;
 
 echo TreeView::widget([
-    'headingOptions' => ['label' => 'Categories1111'],
+    'headingOptions' => ['label' => 'chenCategory'],
     'rootOptions'       => ['label' => 'wolawolawo'],
 
     'query' => TblTree::find()->addOrderBy('root, lft'),
