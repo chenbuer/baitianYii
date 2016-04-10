@@ -18,6 +18,7 @@ return array(
     'yii\\authclient\\' => array($vendorDir . '/yiisoft/yii2-authclient'),
     'yii\\' => array($vendorDir . '/yiisoft/yii2'),
     'kartik\\tree\\' => array($vendorDir . '/kartik-v/yii2-tree-manager'),
+    'kartik\\markdown\\' => array($vendorDir . '/kartik-v/yii2-markdown'),
     'kartik\\form\\' => array($vendorDir . '/kartik-v/yii2-widget-activeform'),
     'kartik\\base\\' => array($vendorDir . '/kartik-v/yii2-krajee-base'),
     'dektrium\\user\\' => array($vendorDir . '/dektrium/yii2-user'),

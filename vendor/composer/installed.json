@@ -970,161 +970,6 @@
         ]
     },
     {
-        "name": "kartik-v/yii2-krajee-base",
-        "version": "1.8.2",
-        "version_normalized": "1.8.2.0",
-        "source": {
-            "type": "git",
-            "url": "https://github.com/kartik-v/yii2-krajee-base.git",
-            "reference": "0c274e31e4392cbafc5fe158eae81738794e02ce"
-        },
-        "dist": {
-            "type": "zip",
-            "url": "https://packagist.phpcomposer.com/files/kartik-v/yii2-krajee-base/0c274e31e4392cbafc5fe158eae81738794e02ce.zip",
-            "reference": "0c274e31e4392cbafc5fe158eae81738794e02ce",
-            "shasum": ""
-        },
-        "require": {
-            "yiisoft/yii2-bootstrap": "@dev"
-        },
-        "time": "2016-01-10 12:26:29",
-        "type": "yii2-extension",
-        "installation-source": "dist",
-        "autoload": {
-            "psr-4": {
-                "kartik\\base\\": ""
-            }
-        },
-        "notification-url": "https://packagist.org/downloads/",
-        "license": [
-            "BSD-3-Clause"
-        ],
-        "authors": [
-            {
-                "name": "Kartik Visweswaran",
-                "email": "kartikv2@gmail.com",
-                "homepage": "http://www.krajee.com/"
-            }
-        ],
-        "description": "Base library and foundation components for all Yii2 Krajee extensions.",
-        "homepage": "https://github.com/kartik-v/yii2-krajee-base",
-        "keywords": [
-            "base",
-            "extension",
-            "foundation",
-            "krajee",
-            "widget",
-            "yii2"
-        ]
-    },
-    {
-        "name": "kartik-v/yii2-widget-activeform",
-        "version": "v1.4.7",
-        "version_normalized": "1.4.7.0",
-        "source": {
-            "type": "git",
-            "url": "https://github.com/kartik-v/yii2-widget-activeform.git",
-            "reference": "6acc1539c37d731c79a67989409ad76e389fd5f0"
-        },
-        "dist": {
-            "type": "zip",
-            "url": "https://packagist.phpcomposer.com/files/kartik-v/yii2-widget-activeform/6acc1539c37d731c79a67989409ad76e389fd5f0.zip",
-            "reference": "6acc1539c37d731c79a67989409ad76e389fd5f0",
-            "shasum": ""
-        },
-        "require": {
-            "kartik-v/yii2-krajee-base": "~1.7"
-        },
-        "time": "2015-12-11 19:07:50",
-        "type": "yii2-extension",
-        "installation-source": "dist",
-        "autoload": {
-            "psr-4": {
-                "kartik\\form\\": ""
-            }
-        },
-        "notification-url": "https://packagist.org/downloads/",
-        "license": [
-            "BSD-3-Clause"
-        ],
-        "authors": [
-            {
-                "name": "Kartik Visweswaran",
-                "email": "kartikv2@gmail.com",
-                "homepage": "http://www.krajee.com/"
-            }
-        ],
-        "description": "Enhanced Yii2 active-form and active-field with full bootstrap styling support (sub repo split from yii2-widgets).",
-        "homepage": "https://github.com/kartik-v/yii2-widget-activeform",
-        "keywords": [
-            "activefield",
-            "activeform",
-            "extension",
-            "field",
-            "form",
-            "widget",
-            "yii2"
-        ]
-    },
-    {
-        "name": "kartik-v/yii2-tree-manager",
-        "version": "dev-master",
-        "version_normalized": "9999999-dev",
-        "source": {
-            "type": "git",
-            "url": "https://github.com/kartik-v/yii2-tree-manager.git",
-            "reference": "e430278044d072badc0d144c530a151403cfcf16"
-        },
-        "dist": {
-            "type": "zip",
-            "url": "https://packagist.phpcomposer.com/files/kartik-v/yii2-tree-manager/e430278044d072badc0d144c530a151403cfcf16.zip",
-            "reference": "e430278044d072badc0d144c530a151403cfcf16",
-            "shasum": ""
-        },
-        "require": {
-            "creocoder/yii2-nested-sets": "~0.9",
-            "kartik-v/yii2-widget-activeform": "~1.4"
-        },
-        "time": "2016-03-21 16:56:22",
-        "type": "yii2-extension",
-        "extra": {
-            "branch-alias": {
-                "dev-master": "1.0.x-dev"
-            }
-        },
-        "installation-source": "source",
-        "autoload": {
-            "psr-4": {
-                "kartik\\tree\\": ""
-            }
-        },
-        "notification-url": "https://packagist.org/downloads/",
-        "license": [
-            "BSD-3-Clause"
-        ],
-        "authors": [
-            {
-                "name": "Kartik Visweswaran",
-                "email": "kartikv2@gmail.com",
-                "homepage": "http://www.krajee.com/"
-            }
-        ],
-        "description": "An enhanced tree management module with tree node selection and manipulation using nested sets.",
-        "homepage": "https://github.com/kartik-v/yii2-tree-manager",
-        "keywords": [
-            "ajax",
-            "bootstrap",
-            "hierarchy",
-            "jquery",
-            "krajee",
-            "nested",
-            "nestedset",
-            "set",
-            "tree",
-            "treeview"
-        ]
-    },
-    {
         "name": "bower-asset/jquery-ui",
         "version": "1.11.4",
         "version_normalized": "1.11.4.0",
@@ -1487,6 +1332,325 @@
             "html editor",
             "imperavi",
             "wysiwyg",
+            "yii2"
+        ]
+    },
+    {
+        "name": "kartik-v/yii2-krajee-base",
+        "version": "1.8.2",
+        "version_normalized": "1.8.2.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/kartik-v/yii2-krajee-base.git",
+            "reference": "0c274e31e4392cbafc5fe158eae81738794e02ce"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://packagist.phpcomposer.com/files/kartik-v/yii2-krajee-base/0c274e31e4392cbafc5fe158eae81738794e02ce.zip",
+            "reference": "0c274e31e4392cbafc5fe158eae81738794e02ce",
+            "shasum": ""
+        },
+        "require": {
+            "yiisoft/yii2-bootstrap": "@dev"
+        },
+        "time": "2016-01-10 12:26:29",
+        "type": "yii2-extension",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "kartik\\base\\": ""
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "BSD-3-Clause"
+        ],
+        "authors": [
+            {
+                "name": "Kartik Visweswaran",
+                "email": "kartikv2@gmail.com",
+                "homepage": "http://www.krajee.com/"
+            }
+        ],
+        "description": "Base library and foundation components for all Yii2 Krajee extensions.",
+        "homepage": "https://github.com/kartik-v/yii2-krajee-base",
+        "keywords": [
+            "base",
+            "extension",
+            "foundation",
+            "krajee",
+            "widget",
+            "yii2"
+        ]
+    },
+    {
+        "name": "kartik-v/yii2-widget-activeform",
+        "version": "v1.4.7",
+        "version_normalized": "1.4.7.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/kartik-v/yii2-widget-activeform.git",
+            "reference": "6acc1539c37d731c79a67989409ad76e389fd5f0"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://packagist.phpcomposer.com/files/kartik-v/yii2-widget-activeform/6acc1539c37d731c79a67989409ad76e389fd5f0.zip",
+            "reference": "6acc1539c37d731c79a67989409ad76e389fd5f0",
+            "shasum": ""
+        },
+        "require": {
+            "kartik-v/yii2-krajee-base": "~1.7"
+        },
+        "time": "2015-12-11 19:07:50",
+        "type": "yii2-extension",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "kartik\\form\\": ""
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "BSD-3-Clause"
+        ],
+        "authors": [
+            {
+                "name": "Kartik Visweswaran",
+                "email": "kartikv2@gmail.com",
+                "homepage": "http://www.krajee.com/"
+            }
+        ],
+        "description": "Enhanced Yii2 active-form and active-field with full bootstrap styling support (sub repo split from yii2-widgets).",
+        "homepage": "https://github.com/kartik-v/yii2-widget-activeform",
+        "keywords": [
+            "activefield",
+            "activeform",
+            "extension",
+            "field",
+            "form",
+            "widget",
+            "yii2"
+        ]
+    },
+    {
+        "name": "kartik-v/yii2-tree-manager",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/kartik-v/yii2-tree-manager.git",
+            "reference": "e430278044d072badc0d144c530a151403cfcf16"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://packagist.phpcomposer.com/files/kartik-v/yii2-tree-manager/e430278044d072badc0d144c530a151403cfcf16.zip",
+            "reference": "e430278044d072badc0d144c530a151403cfcf16",
+            "shasum": ""
+        },
+        "require": {
+            "creocoder/yii2-nested-sets": "~0.9",
+            "kartik-v/yii2-widget-activeform": "~1.4"
+        },
+        "time": "2016-03-21 16:56:22",
+        "type": "yii2-extension",
+        "extra": {
+            "branch-alias": {
+                "dev-master": "1.0.x-dev"
+            }
+        },
+        "installation-source": "source",
+        "autoload": {
+            "psr-4": {
+                "kartik\\tree\\": ""
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "BSD-3-Clause"
+        ],
+        "authors": [
+            {
+                "name": "Kartik Visweswaran",
+                "email": "kartikv2@gmail.com",
+                "homepage": "http://www.krajee.com/"
+            }
+        ],
+        "description": "An enhanced tree management module with tree node selection and manipulation using nested sets.",
+        "homepage": "https://github.com/kartik-v/yii2-tree-manager",
+        "keywords": [
+            "ajax",
+            "bootstrap",
+            "hierarchy",
+            "jquery",
+            "krajee",
+            "nested",
+            "nestedset",
+            "set",
+            "tree",
+            "treeview"
+        ]
+    },
+    {
+        "name": "michelf/php-smartypants",
+        "version": "1.6.0-beta1",
+        "version_normalized": "1.6.0.0-beta1",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/michelf/php-smartypants.git",
+            "reference": "c0465c6d4c5ab853c2fa45df6c10bce7e35cc137"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://packagist.phpcomposer.com/files/michelf/php-smartypants/c0465c6d4c5ab853c2fa45df6c10bce7e35cc137.zip",
+            "reference": "c0465c6d4c5ab853c2fa45df6c10bce7e35cc137",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3.0"
+        },
+        "time": "2013-07-31 18:13:10",
+        "type": "library",
+        "extra": {
+            "branch-alias": {
+                "dev-lib": "1.6.x-dev"
+            }
+        },
+        "installation-source": "dist",
+        "autoload": {
+            "psr-0": {
+                "Michelf": ""
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "BSD-3-Clause"
+        ],
+        "authors": [
+            {
+                "name": "Michel Fortin",
+                "email": "michel.fortin@michelf.ca",
+                "homepage": "http://michelf.ca/",
+                "role": "Developer"
+            },
+            {
+                "name": "John Gruber",
+                "homepage": "http://daringfireball.net/"
+            }
+        ],
+        "description": "PHP SmartyPants",
+        "homepage": "http://michelf.ca/projects/php-smartypants/",
+        "keywords": [
+            "dashes",
+            "quotes",
+            "spaces",
+            "typographer",
+            "typography"
+        ]
+    },
+    {
+        "name": "michelf/php-markdown",
+        "version": "1.6.0",
+        "version_normalized": "1.6.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/michelf/php-markdown.git",
+            "reference": "156e56ee036505ec637d761ee62dc425d807183c"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://packagist.phpcomposer.com/files/michelf/php-markdown/156e56ee036505ec637d761ee62dc425d807183c.zip",
+            "reference": "156e56ee036505ec637d761ee62dc425d807183c",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3.0"
+        },
+        "time": "2015-12-24 01:37:31",
+        "type": "library",
+        "extra": {
+            "branch-alias": {
+                "dev-lib": "1.4.x-dev"
+            }
+        },
+        "installation-source": "dist",
+        "autoload": {
+            "psr-0": {
+                "Michelf": ""
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "BSD-3-Clause"
+        ],
+        "authors": [
+            {
+                "name": "Michel Fortin",
+                "email": "michel.fortin@michelf.ca",
+                "homepage": "https://michelf.ca/",
+                "role": "Developer"
+            },
+            {
+                "name": "John Gruber",
+                "homepage": "https://daringfireball.net/"
+            }
+        ],
+        "description": "PHP Markdown",
+        "homepage": "https://michelf.ca/projects/php-markdown/",
+        "keywords": [
+            "markdown"
+        ]
+    },
+    {
+        "name": "kartik-v/yii2-markdown",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/kartik-v/yii2-markdown.git",
+            "reference": "f6c78178c8385a4898fc6b0d8160253d401e1675"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://packagist.phpcomposer.com/files/kartik-v/yii2-markdown/f6c78178c8385a4898fc6b0d8160253d401e1675.zip",
+            "reference": "f6c78178c8385a4898fc6b0d8160253d401e1675",
+            "shasum": ""
+        },
+        "require": {
+            "kartik-v/yii2-krajee-base": "*",
+            "michelf/php-markdown": "*",
+            "michelf/php-smartypants": "*"
+        },
+        "time": "2015-09-01 17:20:30",
+        "type": "yii2-extension",
+        "installation-source": "source",
+        "autoload": {
+            "psr-4": {
+                "kartik\\markdown\\": ""
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "BSD 3-Clause"
+        ],
+        "authors": [
+            {
+                "name": "Kartik Visweswaran",
+                "email": "kartikv2@gmail.com",
+                "homepage": "http://www.krajee.com/"
+            }
+        ],
+        "description": "Advanced Markdown editing and conversion utilities for Yii Framework 2.0",
+        "homepage": "https://github.com/kartik-v/yii2-markdown",
+        "keywords": [
+            "bootstrap",
+            "converter",
+            "editor",
+            "extension",
+            "form",
+            "input",
+            "jquery",
+            "markdown",
+            "yii",
             "yii2"
         ]
     }

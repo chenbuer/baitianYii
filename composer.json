@@ -18,10 +18,12 @@
         "yiisoft/yii2": ">=2.0.5",
         "yiisoft/yii2-bootstrap": "*",
         "yiisoft/yii2-swiftmailer": "*",
-        "kartik-v/yii2-tree-manager": "@dev",
         "dektrium/yii2-user": "0.9.*@dev",
         "symfony/var-dumper": "^3.0",
-        "yiidoc/yii2-redactor": "*"
+        "yiidoc/yii2-redactor": "*",
+        "kartik-v/yii2-tree-manager": "@dev",
+        "michelf/php-smartypants": "1.6.0-beta1",
+        "kartik-v/yii2-markdown": "dev-master"
     },
     "require-dev": {
         "yiisoft/yii2-codeception": "*",

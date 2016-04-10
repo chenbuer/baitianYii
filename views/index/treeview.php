@@ -6,16 +6,16 @@ use kartik\tree\Module;
 use yii\helpers\Url;
 
 echo TreeView::widget([
-    'headingOptions' => ['label' => 'chenCategory'],
+    'headingOptions' => ['label' => 'henCategory'],
     'rootOptions'       => ['label' => 'wolawolawo'],
 
     'query' => TblTree::find()->addOrderBy('root, lft'),
 
     'isAdmin' => true,         // optional (toggle to enable admin mode)
 
-    'nodeActions' => [
-        Module::NODE_MANAGE => Url::to(['/treemanager/node/manage']),
-    ],
+//    'nodeActions' => [
+//        Module::NODE_MANAGE => Url::to(['/treemanager/node/manage']),
+//    ],
     'displayValue'=>2,
     'iconEditSettings'=> [      //定义上面表单的
         'show' => 'list',

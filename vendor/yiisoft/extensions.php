@@ -130,4 +130,13 @@ return array (
       '@yii/redactor' => '/',
     ),
   ),
+  'kartik-v/yii2-markdown' => 
+  array (
+    'name' => 'kartik-v/yii2-markdown',
+    'version' => '9999999-dev',
+    'alias' => 
+    array (
+      '@kartik/markdown' => $vendorDir . '/kartik-v/yii2-markdown',
+    ),
+  ),
 );
