@@ -31,8 +31,8 @@ $config = [
             'transport' => [
                 'class' => 'Swift_SmtpTransport',
                 'host' => 'smtp.163.com',
-                'username' => 'baitianinfo@163.com',
-                'password' => 'wocaonima163',        //如果是163邮箱，此处要填授权码
+                'username' => 'xxx@163.com',
+                'password' => 'xxx',        //如果是163邮箱，此处要填授权码
                 'port' => '25',
                 'encryption' => 'tls',
             ],

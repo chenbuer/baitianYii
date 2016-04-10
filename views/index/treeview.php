@@ -11,7 +11,7 @@ echo TreeView::widget([
 
     'query' => TblTree::find()->addOrderBy('root, lft'),
 
-    'isAdmin' => true,         // optional (toggle to enable admin mode)
+    'isAdmin' => false,         // optional (toggle to enable admin mode)
 
 //    'nodeActions' => [
 //        Module::NODE_MANAGE => Url::to(['/treemanager/node/manage']),
