@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "b67e4fb764d685fede73e4c0b063d10f",
+    "hash": "2a44a1bb9725f2b82e5c9011be368d1c",
     "content-hash": "211efd33ba699b5cfae44e334436a448",
     "packages": [
         {
@@ -289,7 +289,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/creocoder/yii2-nested-sets/zipball/cb8635a459b6246e5a144f096b992dcc30cf9954",
+                "url": "https://packagist.phpcomposer.com/files/creocoder/yii2-nested-sets/cb8635a459b6246e5a144f096b992dcc30cf9954.zip",
                 "reference": "cb8635a459b6246e5a144f096b992dcc30cf9954",
                 "shasum": ""
             },
@@ -329,7 +329,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/dektrium/yii2-user/zipball/ae737861ff170b9c4376b274244bd9994ee0d248",
+                "url": "https://packagist.phpcomposer.com/files/dektrium/yii2-user/ae737861ff170b9c4376b274244bd9994ee0d248.zip",
                 "reference": "ae737861ff170b9c4376b274244bd9994ee0d248",
                 "shasum": ""
             },
@@ -436,7 +436,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/kartik-v/yii2-krajee-base/zipball/0c274e31e4392cbafc5fe158eae81738794e02ce",
+                "url": "https://packagist.phpcomposer.com/files/kartik-v/yii2-krajee-base/0c274e31e4392cbafc5fe158eae81738794e02ce.zip",
                 "reference": "0c274e31e4392cbafc5fe158eae81738794e02ce",
                 "shasum": ""
             },
@@ -482,7 +482,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/kartik-v/yii2-tree-manager/zipball/e430278044d072badc0d144c530a151403cfcf16",
+                "url": "https://packagist.phpcomposer.com/files/kartik-v/yii2-tree-manager/e430278044d072badc0d144c530a151403cfcf16.zip",
                 "reference": "e430278044d072badc0d144c530a151403cfcf16",
                 "shasum": ""
             },
@@ -538,7 +538,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/kartik-v/yii2-widget-activeform/zipball/6acc1539c37d731c79a67989409ad76e389fd5f0",
+                "url": "https://packagist.phpcomposer.com/files/kartik-v/yii2-widget-activeform/6acc1539c37d731c79a67989409ad76e389fd5f0.zip",
                 "reference": "6acc1539c37d731c79a67989409ad76e389fd5f0",
                 "shasum": ""
             },
@@ -638,7 +638,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/polyfill-mbstring/zipball/1289d16209491b584839022f29257ad859b8532d",
+                "url": "https://packagist.phpcomposer.com/files/symfony/polyfill-mbstring/1289d16209491b584839022f29257ad859b8532d.zip",
                 "reference": "1289d16209491b584839022f29257ad859b8532d",
                 "shasum": ""
             },
@@ -697,7 +697,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/var-dumper/zipball/3841ed86527d18ee2c35fe4afb1b2fc60f8fae79",
+                "url": "https://packagist.phpcomposer.com/files/symfony/var-dumper/3841ed86527d18ee2c35fe4afb1b2fc60f8fae79.zip",
                 "reference": "3841ed86527d18ee2c35fe4afb1b2fc60f8fae79",
                 "shasum": ""
             },
@@ -760,7 +760,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/yiidoc/yii2-redactor/zipball/c4c80c19c68728e88d135f4eec5c51352fbbaa37",
+                "url": "https://packagist.phpcomposer.com/files/yiidoc/yii2-redactor/c4c80c19c68728e88d135f4eec5c51352fbbaa37.zip",
                 "reference": "c4c80c19c68728e88d135f4eec5c51352fbbaa37",
                 "shasum": ""
             },
@@ -898,7 +898,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/yiisoft/yii2-authclient/zipball/22910bfe0000538f5b3ca1102cd3de0b5d14a0e2",
+                "url": "https://packagist.phpcomposer.com/files/yiisoft/yii2-authclient/22910bfe0000538f5b3ca1102cd3de0b5d14a0e2.zip",
                 "reference": "22910bfe0000538f5b3ca1102cd3de0b5d14a0e2",
                 "shasum": ""
             },
@@ -1043,7 +1043,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/yiisoft/yii2-jui/zipball/37991d06ad952eead7bd5bb839c9a352d9b5e34a",
+                "url": "https://packagist.phpcomposer.com/files/yiisoft/yii2-jui/37991d06ad952eead7bd5bb839c9a352d9b5e34a.zip",
                 "reference": "37991d06ad952eead7bd5bb839c9a352d9b5e34a",
                 "shasum": ""
             },
